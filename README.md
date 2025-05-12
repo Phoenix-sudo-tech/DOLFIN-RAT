@@ -1,4 +1,8 @@
--------------------------: STEPS :---------------------------
+DOLFIN RAT ~2025 
+MADE BY - @ethicalphoenix
+
+
+
 
 1. git clone
 2. ls
