@@ -20,7 +20,8 @@ MADE BY - @ethicalphoenix
 6. FOLLOW THE STEPS IN THE DOLFIN-RAT folder.
 
 
-![1000464246](https://github.com/user-attachments/assets/cbea4aaa-6d72-4fd8-91b7-7f4138f50217)
+![1000464242](https://github.com/user-attachments/assets/269fa5fd-eb70-45f8-9629-9ee4f5ef5774)
+
 
 
 contact ( telegram ) : t.me/grey_008
